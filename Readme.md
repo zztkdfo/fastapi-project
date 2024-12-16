@@ -1,5 +1,6 @@
 ## 프로젝트 구조
 
+<pre>
 fastapi-project/
 ├── app/
 │ ├──`__init__`.py
@@ -38,3 +39,4 @@ fastapi-project/
 │ │ ├── test_job.py # Job 관련 테스트
 ├── .env # 환경 변수 설정 파일
 ├── requirements.txt # Python 패키지 목록
+</pre>
