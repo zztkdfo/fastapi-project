@@ -1,0 +1,24 @@
+# Python 가상 환경
+venv/
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 로그 파일
+*.log
+*.sqlite3
+
+# OS에서 생성하는 파일
+.DS_Store
+Thumbs.db
+
+# IDE 설정 파일
+.vscode/
+.idea/
+*.swp
